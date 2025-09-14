@@ -2,3 +2,4 @@ gradio
 mysql-connector-python
 pandas
 python-dotenv
+gunicorn
